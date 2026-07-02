@@ -1,0 +1,25 @@
+{
+  "overview": {
+    "scale": 0.13,
+    "numOfRows": 2,
+    "numOfCols": 5,
+    "windowPadding": 6,
+    "workspaceNumberSize": 180
+  },
+  "hacks": {
+    "arbitraryRaceConditionDelay": 20
+  },
+  "font": {
+    "family": {
+      "uiFont": "sans-serif",
+      "expressive": "sans-serif"
+    },
+    "pixelSize": {
+      "textSmall": 12,
+      "textBase": 15,
+      "textMedium": 16,
+      "textLarge": 19,
+      "iconLarge": 22
+    }
+  }
+}
