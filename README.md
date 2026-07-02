@@ -2,6 +2,9 @@
 
 Tokyo Night themed workspace overview/switcher for Hyprland built with Quickshell.
 
+Based on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) with layout and transparency tweaks.
+Works with [Omarchy](https://github.com/anomalyco/omarchy) desktop configuration.
+
 ## Requirements
 
 - **Hyprland** (Wayland compositor)
